@@ -31,7 +31,7 @@ export default {
         </style>
       </head>
       <body>
-        <img src="https://vempradig.com/logo.png" alt="Logo em manutenção" />
+        <img src="https://i.imgur.com/X2g6zZq.png" alt="Logo em manutenção" />
         <h1>Estamos em manutenção.</h1>
       </body>
       </html>
